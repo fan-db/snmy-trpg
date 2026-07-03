@@ -1,0 +1,213 @@
+{
+  "updatedAt": "2026/07/04 00:20",
+  "streams": [
+    {
+      "id": "stream_1",
+      "date": "2022/10/09",
+      "scenario": "夕星シンフォニア",
+      "system": "エモクロア",
+      "gm": "コーサカ",
+      "characters": [
+        {
+          "pcName": "一白百点",
+          "plName": "高生紳士",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "鳴宮千歳",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
+      "links": [
+        {
+          "label": "前編",
+          "url": "https://www.youtube.com/live/Avgbwjrayd4?feature=share"
+        },
+        {
+          "label": "後編",
+          "url": "https://www.youtube.com/live/oCTzDUDz1PM?feature=share"
+        }
+      ],
+      "hashtag": "たかみやシンフォニア",
+      "adminNote": "",
+      "relatedLinks": []
+    },
+    {
+      "id": "stream_2",
+      "date": "2023/09/02",
+      "scenario": "ウルトラヒロイック",
+      "system": "エモクロア",
+      "gm": "コーサカ",
+      "characters": [
+        {
+          "pcName": "ゴッズ・リンドウルム",
+          "plName": "むつー",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "ガルマ・リマ・アルマ",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "カガリ",
+          "plName": "鈴木翔平",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "ヴィゴーニア=リコリウス=アズローゼ",
+          "plName": "白夜零兎",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
+      "links": [
+        {
+          "label": "YouTube",
+          "url": "本編:https://www.youtube.com/live/vOI11edTYT4?feature=shared"
+        }
+      ],
+      "hashtag": "すしぜむヒロイック",
+      "adminNote": "",
+      "relatedLinks": []
+    },
+    {
+      "id": "stream_3",
+      "date": "2025/01/14",
+      "scenario": "ウルトラヒロイック2",
+      "system": "エモクロア",
+      "gm": "コーサカ",
+      "characters": [
+        {
+          "pcName": "クレイヴ",
+          "plName": "むつー",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "リュウゼン",
+          "plName": "鈴木翔平",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "ディジー・イルミネス",
+          "plName": "白夜零兎",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "アンナ＝アルトメリア",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
+      "links": [
+        {
+          "label": "前編",
+          "url": "https://www.youtube.com/watch?v=CiMpODy6ORo&list=PL0JEZAkG-ps9lfCk5VVvOe4LEB1oxGHjj&index=291"
+        },
+        {
+          "label": "後編",
+          "url": "https://www.youtube.com/live/mgEB-ovxeUA?si=5zJd9_4MIKXDHyMR"
+        }
+      ],
+      "hashtag": "すしぜむが消えゆく中で",
+      "adminNote": "",
+      "relatedLinks": []
+    },
+    {
+      "id": "stream_4",
+      "date": "2025/01/30",
+      "scenario": "高生紳士が好きそうな男選手権【決勝戦】",
+      "system": "CoC6版",
+      "gm": "高生紳士",
+      "characters": [
+        {
+          "pcName": "春夏冬篩",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "佐藤",
+          "plName": "藍月なくる",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "龍拳",
+          "plName": "彩音れおん",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "灰摩十",
+          "plName": "水凪自由",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "七五三木姫々",
+          "plName": "コーサカ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "榎本茜",
+          "plName": "すぎうらきりと",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
+      "links": [
+        {
+          "label": "YouTube",
+          "url": "本編:https://www.youtube.com/live/jnT-yf-0QUc?si=9Z1pIAvb2ghZ28eB"
+        }
+      ],
+      "hashtag": "高生紳士が好きそうな男選手権",
+      "adminNote": "",
+      "relatedLinks": []
+    }
+  ]
+}
