@@ -134,7 +134,7 @@
                             <span class="text-xs text-slate-400 font-medium" x-text="stream.date"></span>
                         </div>
                         <label class="capture-hide flex items-center gap-1.5 text-xs text-slate-500 cursor-pointer select-none" @click.stop>
-                            <input type="checkbox" :checked="isWatched(stream.id)" @change="toggleWatched(stream.id)" class="w-4 h-4 rounded border-stone-300 text-red-500 focus:ring-red-400 cursor-pointer accent-red-500">
+                            <input type="checkbox" :checked="watchedIds.includes(stream.id)" @change="toggleWatched(stream.id)" class="w-4 h-4 rounded border-stone-300 text-red-500 focus:ring-red-400 cursor-pointer accent-red-500">
                             <span class="text-[11px]" x-text="isWatched(stream.id) ? '視聴済み' : '未視聴'"></span>
                         </label>
                     </div>
@@ -213,7 +213,7 @@
                                     </button>
                                 </td>
                                 <td class="py-4 px-3 text-center" @click.stop>
-                                    <input type="checkbox" :checked="isWatched(stream.id)" @change="toggleWatched(stream.id)" class="w-4 h-4 rounded border-stone-300 text-red-500 focus:ring-red-400 cursor-pointer accent-red-500">
+                                    <input type="checkbox" :checked="watchedIds.includes(stream.id)" @change="toggleWatched(stream.id)" class="w-4 h-4 rounded border-stone-300 text-red-500 focus:ring-red-400 cursor-pointer accent-red-500">
                                 </td>
                                 <td class="py-4 px-4 text-slate-400 font-semibold" x-text="stream.date"></td>
                                 <td class="py-4 px-4">
@@ -373,10 +373,10 @@
                 activeStream: {},
 
                 async initApp() {
-                    const savedWatched = localStorage.getItem('trpg_watched_ids');
+                    const savedWatched = localStorage.getItem('iori_trpg_watched_ids');
                     if (savedWatched) this.watchedIds = JSON.parse(savedWatched);
 
-                    const savedFavs = localStorage.getItem('trpg_fav_ids');
+                    const savedFavs = localStorage.getItem('iori_trpg_fav_ids');
                     if (savedFavs) this.favoriteIds = JSON.parse(savedFavs);
                     
                     try {
@@ -508,9 +508,9 @@
                     if (this.isWatched(id)) {
                         this.watchedIds = this.watchedIds.filter(wId => wId !== id);
                     } else {
-                        this.watchedIds.push(id);
+                        this.watchedIds = [...this.watchedIds, id];
                     }
-                    localStorage.setItem('trpg_watched_ids', JSON.stringify(this.watchedIds));
+                    localStorage.setItem('iori_trpg_watched_ids', JSON.stringify(this.watchedIds));
                 },
 
                 isFavorite(id) {
@@ -521,9 +521,9 @@
                     if (this.isFavorite(id)) {
                         this.favoriteIds = this.favoriteIds.filter(fId => fId !== id);
                     } else {
-                        this.favoriteIds.push(id);
+                        this.favoriteIds = [...this.favoriteIds, id];
                     }
-                    localStorage.setItem('trpg_fav_ids', JSON.stringify(this.favoriteIds));
+                    localStorage.setItem('iori_trpg_fav_ids', JSON.stringify(this.favoriteIds));
                 },
 
                 // 📸 画像の保存ロジック（背景色のみウォームグレーに合わせて調整）
