@@ -123,7 +123,7 @@
 
         <div id="mobile-card-container" class="block md:hidden space-y-4">
             <template x-for="stream in filteredStreams()" :key="'card-'+stream.id">
-                <div @click="openModal(stream)" class="bg-white rounded-2xl border border-stone-200 p-4 shadow-sm space-y-3 transition-colors cursor-pointer relative" :class="isWatched(stream.id) ? 'bg-stone-50/60' : ''">
+                <div @click="openModal(stream)" class="bg-white rounded-2xl border border-stone-200 p-4 shadow-sm space-y-3 transition-colors cursor-pointer relative">
                     
                     <div class="flex items-center justify-between border-b border-stone-100 pb-2">
                         <div class="flex items-center gap-2">
