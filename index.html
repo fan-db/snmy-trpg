@@ -205,7 +205,7 @@
                     </thead>
                     <tbody class="divide-y divide-stone-100 text-sm">
                         <template x-for="stream in filteredStreams()" :key="'table-'+stream.id">
-                            <tr @click="openModal(stream)" class="hover:bg-stone-50/50 transition-colors cursor-pointer" :class="isWatched(stream.id) ? 'bg-stone-50/30' : ''">
+                            <tr @click="openModal(stream)" class="hover:bg-stone-50/50 transition-colors cursor-pointer">
                                 <td class="py-4 px-4 text-center" @click.stop>
                                     <button @click="toggleFavorite(stream.id)" class="p-1 focus:outline-none cursor-pointer" title="お気に入り">
                                         <div class="w-2.5 h-2.5 rounded-full border mx-auto transition-all duration-200" 
