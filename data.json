@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026/07/15 18:31",
+  "updatedAt": "2026/07/19 09:44",
   "streams": [
     {
       "id": "stream_1",
@@ -82,8 +82,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=rOkqiXeHOnM"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=rOkqiXeHOnM"
         }
       ],
       "hashtag": "囚職都市しのんの",
@@ -246,8 +246,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=fmPwywX4QUk"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=fmPwywX4QUk"
         }
       ],
       "hashtag": "狂ノしのんのおん",
@@ -296,8 +296,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=JR9tjN0LUUI"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=JR9tjN0LUUI"
         }
       ],
       "hashtag": "シリ笑組探索せよ",
@@ -322,8 +322,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=s4V7ZVEDLN4"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=s4V7ZVEDLN4"
         }
       ],
       "hashtag": "いおりの水銀注射",
@@ -444,8 +444,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=mZlZMpoopJo"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=mZlZMpoopJo"
         }
       ],
       "hashtag": "なくみやライダム",
@@ -544,8 +544,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=KpZ2eICEgXM"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=KpZ2eICEgXM"
         }
       ],
       "hashtag": "白宮VIPタワー",
@@ -578,8 +578,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=fWU9qNhGwxQ"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=fWU9qNhGwxQ"
         }
       ],
       "hashtag": "しのんの藍はと",
@@ -612,8 +612,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=aBeS1Ffs0ME"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=aBeS1Ffs0ME"
         }
       ],
       "hashtag": "しのたむハノガク",
@@ -692,8 +692,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=bgHp16z7sWQ"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=bgHp16z7sWQ"
         }
       ],
       "hashtag": "しのんのシボウ",
@@ -732,7 +732,7 @@
           "note": ""
         },
         {
-          "pcName": "信濃い奏織",
+          "pcName": "信濃奏織",
           "plName": "藍月すりっぷ",
           "history": "",
           "profile": "",
@@ -772,8 +772,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=4xbjSOgvSfw"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=4xbjSOgvSfw"
         }
       ],
       "hashtag": "ききみみRPG",
@@ -876,8 +876,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=3Ycu3H7wE1Q"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=3Ycu3H7wE1Q"
         }
       ],
       "hashtag": "紺夜爆四の吠ゆる頃に",
@@ -902,8 +902,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=r4RpboTfqfM"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=r4RpboTfqfM"
         }
       ],
       "hashtag": "死中に四宮",
@@ -1052,8 +1052,9 @@
       "adminNote": "",
       "relatedLinks": [
         {
-          "label": "詳細リンク",
-          "url": "[ふせったー](https://x.com/iori_shinomiya/status/1987795266163101699?s=20)"
+          "label": "ふせったー",
+          "url": "https://x.com/iori_shinomiya/status/1987795266163101699?s=20",
+          "comment": ""
         }
       ]
     },
@@ -1179,8 +1180,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=N5NQ3ZyyJuc"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=N5NQ3ZyyJuc"
         }
       ],
       "hashtag": "なくみや前夜",
@@ -1221,8 +1222,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=IjLdNSE6p7o"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=IjLdNSE6p7o"
         }
       ],
       "hashtag": "すりきりおりの日本シ旅",
@@ -1305,8 +1306,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=WS9cXDiFTso"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=WS9cXDiFTso"
         }
       ],
       "hashtag": "月宮ドロディス",
@@ -1331,8 +1332,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=EoStOq1HIGc"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=EoStOq1HIGc"
         }
       ],
       "hashtag": "汗だく糸冬と壊れたエアコン",
@@ -1357,8 +1358,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=nUuShLW_zM4"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=nUuShLW_zM4"
         }
       ],
       "hashtag": "よだはまきづしん",
@@ -1391,8 +1392,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=g1Dx6xvjhEs"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=g1Dx6xvjhEs"
         }
       ],
       "hashtag": "しのんの課",
@@ -1417,8 +1418,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=w5rL_mwGMPo"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=w5rL_mwGMPo"
         }
       ],
       "hashtag": "異説四宮日記",
@@ -1443,8 +1444,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=MS89n1QOW4I"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=MS89n1QOW4I"
         }
       ],
       "hashtag": "うそぶくたかみや",
@@ -1493,8 +1494,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=N8Vc0RTVMv4"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=N8Vc0RTVMv4"
         }
       ],
       "hashtag": "あしこしるる屋",
@@ -1729,12 +1730,14 @@
       "adminNote": "",
       "relatedLinks": [
         {
-          "label": "詳細リンク",
-          "url": "[ふせったー①](https://x.com/iori_shinomiya/status/1947514902656258057?s=20)"
+          "label": "ふせったー①",
+          "url": "https://x.com/iori_shinomiya/status/1947514902656258057?s=20",
+          "comment": ""
         },
         {
-          "label": "詳細リンク",
-          "url": "[ふせったー②](https://x.com/iori_shinomiya/status/1946420393071493421?s=20)"
+          "label": "ふせったー②",
+          "url": "https://x.com/iori_shinomiya/status/1946420393071493421?s=20",
+          "comment": ""
         }
       ]
     },
@@ -1796,8 +1799,9 @@
       "adminNote": "",
       "relatedLinks": [
         {
-          "label": "詳細リンク",
-          "url": "[或る人形についての報告書](https://note.com/iori_shinomiya/n/n04f5d367fb0a)"
+          "label": "或る人形についての報告書",
+          "url": "https://note.com/iori_shinomiya/n/n04f5d367fb0a",
+          "comment": ""
         }
       ]
     },
@@ -1827,8 +1831,9 @@
       "adminNote": "",
       "relatedLinks": [
         {
-          "label": "詳細リンク",
-          "url": "[ふせったー](https://x.com/shigure_nao1217/status/1943342358197866686?s=20)"
+          "label": "ふせったー",
+          "url": "https://x.com/shigure_nao1217/status/1943342358197866686?s=20",
+          "comment": ""
         }
       ]
     },
@@ -1858,8 +1863,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=OwbtTkNV4gk"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=OwbtTkNV4gk"
         }
       ],
       "hashtag": "白宮デ死",
@@ -2008,8 +2013,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=2d6DEpGUbP8"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=2d6DEpGUbP8"
         }
       ],
       "hashtag": "全部四宮伊織かよ",
@@ -2034,8 +2039,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=5OafkkFKRlA"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=5OafkkFKRlA"
         }
       ],
       "hashtag": "全部御子神灯梨かよ",
@@ -2084,8 +2089,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=zSYhqcBcfe4"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=zSYhqcBcfe4"
         }
       ],
       "hashtag": "藍月いおりンゴカレー",
@@ -2148,8 +2153,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=2w8Yd9rZOuY"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=2w8Yd9rZOuY"
         }
       ],
       "hashtag": "伊織ヴェイル",
@@ -2198,8 +2203,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=RNtltf4wUTw"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=RNtltf4wUTw"
         }
       ],
       "hashtag": "あたなるグドモメイ森",
@@ -2336,8 +2341,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=-23CeTLkjZQ"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=-23CeTLkjZQ"
         }
       ],
       "hashtag": "シノミヤマート",
@@ -2370,8 +2375,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=2pBNzlVSvBM"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=2pBNzlVSvBM"
         }
       ],
       "hashtag": "しのんの番番",
@@ -2420,8 +2425,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=mopNBvVFM6U"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=mopNBvVFM6U"
         }
       ],
       "hashtag": "すぶにあしこし",
@@ -2662,8 +2667,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=M27GcL9Wm4A"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=M27GcL9Wm4A"
         }
       ],
       "hashtag": "あくろっく02春",
@@ -2728,8 +2733,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=jnT-yf-0QUc"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=jnT-yf-0QUc"
         }
       ],
       "hashtag": "高生紳士が好きそうな男選手権",
@@ -2770,8 +2775,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=kT7NKPsMkvk"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=kT7NKPsMkvk"
         }
       ],
       "hashtag": "チームなかよしともだちクラブ",
@@ -2932,8 +2937,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=rdUSDjVrCAE"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=rdUSDjVrCAE"
         }
       ],
       "hashtag": "野郎どもに祝福を",
@@ -3028,8 +3033,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=aJ9Q66C1-M4"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=aJ9Q66C1-M4"
         }
       ],
       "hashtag": "しのんの課",
@@ -3078,8 +3083,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=jy9L8j6qE8w"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=jy9L8j6qE8w"
         }
       ],
       "hashtag": "",
@@ -3112,8 +3117,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=IUKy37my8No"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=IUKy37my8No"
         }
       ],
       "hashtag": "しのむつファタルコール",
@@ -3184,6 +3189,40 @@
     },
     {
       "id": "stream_74",
+      "date": "2024/11/12",
+      "scenario": "COIN",
+      "system": "エモクロア",
+      "gm": "四宮伊織",
+      "characters": [
+        {
+          "pcName": "九十九里夜空",
+          "plName": "ひよりん*",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "稲穂芽生",
+          "plName": "さけこ。",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
+      "links": [
+        {
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=iXyR-ofHxGI"
+        }
+      ],
+      "hashtag": "さけひよCOIN",
+      "adminNote": "",
+      "relatedLinks": []
+    },
+    {
+      "id": "stream_75",
       "date": "2024/11/15",
       "scenario": "イザナミの棺",
       "system": "CoC7版",
@@ -3240,13 +3279,14 @@
       "adminNote": "",
       "relatedLinks": [
         {
-          "label": "詳細リンク",
-          "url": "[ふせったー](https://x.com/iori_shinomiya/status/1868574476419596651?s=20)"
+          "label": "ふせったー",
+          "url": "https://x.com/iori_shinomiya/status/1868574476419596651?s=20",
+          "comment": ""
         }
       ]
     },
     {
-      "id": "stream_75",
+      "id": "stream_76",
       "date": "2024/10/03",
       "scenario": "鰯と柊",
       "system": "CoC6版",
@@ -3284,7 +3324,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_76",
+      "id": "stream_77",
       "date": "2024/09/30",
       "scenario": "ネコ忍者の襲撃！",
       "system": "CoC6版",
@@ -3301,8 +3341,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=2ehPhHhzSd0"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=2ehPhHhzSd0"
         }
       ],
       "hashtag": "四宮伊織の襲撃",
@@ -3310,7 +3350,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_77",
+      "id": "stream_78",
       "date": "2024/09/23",
       "scenario": "",
       "system": "CoC6版",
@@ -3318,8 +3358,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=Ctccwag5iHI"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=Ctccwag5iHI"
         }
       ],
       "hashtag": "AI翔平2024",
@@ -3327,7 +3367,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_78",
+      "id": "stream_79",
       "date": "2024/09/21",
       "scenario": "Good morning ALL",
       "system": "CoC6版",
@@ -3352,8 +3392,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=9r3de3chTuc"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=9r3de3chTuc"
         }
       ],
       "hashtag": "月宮グドモ",
@@ -3361,7 +3401,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_79",
+      "id": "stream_80",
       "date": "2024/09/19",
       "scenario": "海も枯れるまで",
       "system": "CoC6版",
@@ -3399,7 +3439,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_80",
+      "id": "stream_81",
       "date": "2024/09/12",
       "scenario": "暗夜に一灯",
       "system": "CoC6版",
@@ -3424,8 +3464,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=1Po-7n6ca2c"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=1Po-7n6ca2c"
         }
       ],
       "hashtag": "白宮に一灯",
@@ -3433,7 +3473,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_81",
+      "id": "stream_82",
       "date": "2024/09/01",
       "scenario": "近くて遠きは終着点Another",
       "system": "CoC6版",
@@ -3474,8 +3514,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=885rDgQz5yQ"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=885rDgQz5yQ"
         }
       ],
       "hashtag": "ちかしゅう04アナザー",
@@ -3483,7 +3523,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_82",
+      "id": "stream_83",
       "date": "2024/08/12",
       "scenario": "火点し頃の蜘蛛踊り",
       "system": "CoC6版",
@@ -3537,7 +3577,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_83",
+      "id": "stream_84",
       "date": "2024/08/09",
       "scenario": "超自然クイズinエモクロア",
       "system": "エモクロア",
@@ -3570,8 +3610,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=RJ1k7bnrd1Q"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=RJ1k7bnrd1Q"
         }
       ],
       "hashtag": "超Qやいずき",
@@ -3579,7 +3619,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_84",
+      "id": "stream_85",
       "date": "2024/07/21",
       "scenario": "須臾を結ぶ",
       "system": "エモクロア",
@@ -3612,8 +3652,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=6AmCPu7c6IE"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=6AmCPu7c6IE"
         }
       ],
       "hashtag": "すりきりおりの日本シ旅",
@@ -3621,7 +3661,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_85",
+      "id": "stream_86",
       "date": "2024/07/20",
       "scenario": "ツイステッドボックスの奇妙な一日",
       "system": "エモクロア",
@@ -3654,8 +3694,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=NvFcK7cAhNU"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=NvFcK7cAhNU"
         }
       ],
       "hashtag": "すりきりおりの日本シ旅",
@@ -3663,7 +3703,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_86",
+      "id": "stream_87",
       "date": "2024/07/14",
       "scenario": "ぼくらの今",
       "system": "エモクロア",
@@ -3696,8 +3736,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=6ejIIsFtbFU"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=6ejIIsFtbFU"
         }
       ],
       "hashtag": "すりきりおりの日本シ旅",
@@ -3705,7 +3745,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_87",
+      "id": "stream_88",
       "date": "2024/07/11",
       "scenario": "楽園の鯨波",
       "system": "エモクロア",
@@ -3738,8 +3778,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=02Ut_ljoQ8U"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=02Ut_ljoQ8U"
         }
       ],
       "hashtag": "すりきりおりの日本シ旅",
@@ -3747,7 +3787,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_88",
+      "id": "stream_89",
       "date": "2024/06/21",
       "scenario": "地底のペタン",
       "system": "CoC6版",
@@ -3764,8 +3804,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=XGiicgLIQHI"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=XGiicgLIQHI"
         }
       ],
       "hashtag": "地底のイオリ",
@@ -3773,7 +3813,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_89",
+      "id": "stream_90",
       "date": "2024/06/17",
       "scenario": "Color×Ki11er",
       "system": "CoC6版",
@@ -3806,8 +3846,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=vVYgRwIBF-E"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=vVYgRwIBF-E"
         }
       ],
       "hashtag": "ゆうれい倶楽部が働いてみたｗ",
@@ -3815,7 +3855,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_90",
+      "id": "stream_91",
       "date": "2024/06/13",
       "scenario": "ビスポークランドでなにがあったか？",
       "system": "CoC6版",
@@ -3856,12 +3896,12 @@
           "url": "https://www.youtube.com/watch?v=JlCBRhCyf-Q"
         }
       ],
-      "hashtag": "さけもこりんでなにがあったか？",
+      "hashtag": "さけもこりんでなにがあったか",
       "adminNote": "",
       "relatedLinks": []
     },
     {
-      "id": "stream_91",
+      "id": "stream_92",
       "date": "2024/06/04",
       "scenario": "アンデッド・デット・デビルズ",
       "system": "エモクロア",
@@ -3899,7 +3939,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_92",
+      "id": "stream_93",
       "date": "2024/05/29",
       "scenario": "悠遠からのmayday",
       "system": "CoC6版",
@@ -3965,7 +4005,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_93",
+      "id": "stream_94",
       "date": "2024/05/27",
       "scenario": "君を土に埋める日",
       "system": "CoC6版",
@@ -3991,7 +4031,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_94",
+      "id": "stream_95",
       "date": "2024/05/23",
       "scenario": "私のダイアリー",
       "system": "エモクロア",
@@ -4008,8 +4048,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=sx1-8L2NrME"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=sx1-8L2NrME"
         }
       ],
       "hashtag": "四宮のダイアリー",
@@ -4017,7 +4057,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_95",
+      "id": "stream_96",
       "date": "2024/05/21",
       "scenario": "偽りを探せ！",
       "system": "CoC6版",
@@ -4050,8 +4090,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=mOYxSRpD8nI"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=mOYxSRpD8nI"
         }
       ],
       "hashtag": "たかみやックを探せ",
@@ -4059,7 +4099,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_96",
+      "id": "stream_97",
       "date": "2024/05/14",
       "scenario": "あトの祀リ-緋の宴-",
       "system": "CoC6版",
@@ -4129,7 +4169,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_97",
+      "id": "stream_98",
       "date": "2024/05/11",
       "scenario": "終末トランジット",
       "system": "CoC6版",
@@ -4170,8 +4210,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=h7oDTczj4EU"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=h7oDTczj4EU"
         }
       ],
       "hashtag": "ぷりんすトランジット",
@@ -4179,7 +4219,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_98",
+      "id": "stream_99",
       "date": "2024/05/09",
       "scenario": "レッツ！ロシアンオムライス",
       "system": "CoC6版",
@@ -4220,8 +4260,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=ORCWocQFYXQ"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=ORCWocQFYXQ"
         }
       ],
       "hashtag": "ぷりんすオムライス",
@@ -4229,12 +4269,45 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_99",
+      "id": "stream_100",
       "date": "2024/04/14",
       "scenario": "スイサイダルアクト",
       "system": "CoC6版",
-      "gm": "高生紳士",
-      "characters": [],
+      "gm": "桧垣",
+      "characters": [
+        {
+          "pcName": "縁カナメ/翡翠彩芽",
+          "plName": "しぐれなお",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "暗輝夜/白",
+          "plName": "ヨシヅキ参謀",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "黒澤匠海/香椎千里",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "自分演/歌種空音",
+          "plName": "高生紳士",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
           "label": "1",
@@ -4262,12 +4335,29 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_100",
+      "id": "stream_101",
       "date": "2024/04/06",
       "scenario": "蛾と踊る",
       "system": "CoC6版",
       "gm": "necoze",
-      "characters": [],
+      "characters": [
+        {
+          "pcName": "玄冬鶍",
+          "plName": "ヨシヅキ参謀",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "御子神灯梨",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
           "label": "前編",
@@ -4278,51 +4368,110 @@
           "url": "https://www.youtube.com/watch?v=RF3miXOcFgU"
         }
       ],
-      "hashtag": "",
-      "adminNote": "",
-      "relatedLinks": []
-    },
-    {
-      "id": "stream_101",
-      "date": "2024/03/31",
-      "scenario": "奴ら山脈",
-      "system": "CoC6版",
-      "gm": "まだら牛",
-      "characters": [],
-      "links": [
-        {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=xEIDr2V2uNw"
-        }
-      ],
-      "hashtag": "",
+      "hashtag": "月宮と踊る",
       "adminNote": "",
       "relatedLinks": []
     },
     {
       "id": "stream_102",
-      "date": "2024/03/27",
-      "scenario": "First Exorcism",
-      "system": "CoC6版",
-      "gm": "necoze",
-      "characters": [],
-      "links": [
+      "date": "2024/03/31",
+      "scenario": "狂気山脈 ～邪神の山嶺～",
+      "system": "CoC7版",
+      "gm": "まだら牛",
+      "characters": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=7uNIA4s2eNo"
+          "pcName": "肯定",
+          "plName": "高生紳士",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "埴輪",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "ハムちゃんズ",
+          "plName": "白夜零兎",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
         }
       ],
-      "hashtag": "",
+      "links": [
+        {
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=xEIDr2V2uNw"
+        }
+      ],
+      "hashtag": "奴ら山脈",
       "adminNote": "",
       "relatedLinks": []
     },
     {
       "id": "stream_103",
+      "date": "2024/03/27",
+      "scenario": "First Exorcism",
+      "system": "エモクロア",
+      "gm": "necoze",
+      "characters": [
+        {
+          "pcName": "佐々森円香",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
+      "links": [
+        {
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=7uNIA4s2eNo"
+        }
+      ],
+      "hashtag": "悪魔祓い宮",
+      "adminNote": "",
+      "relatedLinks": []
+    },
+    {
+      "id": "stream_104",
       "date": "2024/03/23",
       "scenario": "ビスポークランドでなにがあったか？",
       "system": "CoC6版",
       "gm": "四宮伊織",
-      "characters": [],
+      "characters": [
+        {
+          "pcName": "リアム・アレクサンダー",
+          "plName": "水凪自由",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "バローロ・ディ・バルバレスコ",
+          "plName": "白夜零兎",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "ピニャータ・アルファルド",
+          "plName": "高生紳士",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
           "label": "前編",
@@ -4333,58 +4482,83 @@
           "url": "https://www.youtube.com/watch?v=zECJxM4w8lk"
         }
       ],
-      "hashtag": "",
-      "adminNote": "",
-      "relatedLinks": []
-    },
-    {
-      "id": "stream_104",
-      "date": "2024/03/19",
-      "scenario": "胡桃炸裂症候群 -Drosselmeyer Syndrome- / DAY3 四宮伊織、白夜零兎",
-      "system": "CoC6版",
-      "gm": "ひよりん*",
-      "characters": [],
-      "links": [
-        {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=KRWolvpKL_o"
-        }
-      ],
-      "hashtag": "クトゥルフ神話TRPG、しろみや症候群",
+      "hashtag": "あたなるでなにがあったか",
       "adminNote": "",
       "relatedLinks": []
     },
     {
       "id": "stream_105",
-      "date": "2024/03/18",
-      "scenario": "胡桃炸裂症候群 -Drosselmeyer Syndrome- / DAY2 四宮伊織、白夜零兎",
+      "date": "2024/03/17",
+      "scenario": "胡桃炸裂症候群 -Drosselmeyer Syndrome-",
       "system": "CoC6版",
       "gm": "ひよりん*",
-      "characters": [],
-      "links": [
+      "characters": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=lJ-rDRQdOaI"
+          "pcName": "宗形千尋",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "亞久津蓮弥",
+          "plName": "白夜零兎",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
         }
       ],
-      "hashtag": "クトゥルフ神話TRPG、しろみや症候群",
+      "links": [
+        {
+          "label": "1",
+          "url": "https://www.youtube.com/watch?v=zwXTojP_Prc"
+        },
+        {
+          "label": "2",
+          "url": "https://www.youtube.com/watch?v=lJ-rDRQdOaI"
+        },
+        {
+          "label": "3",
+          "url": "https://www.youtube.com/watch?v=KRWolvpKL_o"
+        }
+      ],
+      "hashtag": "しろみや症候群",
       "adminNote": "",
       "relatedLinks": []
     },
     {
       "id": "stream_106",
-      "date": "2024/03/17",
-      "scenario": "胡桃炸裂症候群 -Drosselmeyer Syndrome- / DAY1 四宮伊織、白夜零兎",
-      "system": "CoC6版",
-      "gm": "ひよりん*",
-      "characters": [],
-      "links": [
+      "date": "2024/03/04",
+      "scenario": "COIN",
+      "system": "エモクロア",
+      "gm": "四宮伊織",
+      "characters": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=zwXTojP_Prc"
+          "pcName": "枸牙蒼",
+          "plName": "白夜零兎",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "鳳誠人",
+          "plName": "紺野和泉",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
         }
       ],
-      "hashtag": "クトゥルフ神話TRPG、しろみや症候群",
+      "links": [
+        {
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=7C0x1NnDFS0"
+        }
+      ],
+      "hashtag": "しろんのCOIN",
       "adminNote": "",
       "relatedLinks": []
     },
@@ -4394,14 +4568,39 @@
       "scenario": "殺骸島事件",
       "system": "エモクロア",
       "gm": "九畝くぜ",
-      "characters": [],
-      "links": [
+      "characters": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=F_yRwxdtglo"
+          "pcName": "緋乃村剣太郞",
+          "plName": "神威J威弦",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "ユウ・シャ",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "比嘉石也",
+          "plName": "紺野和泉",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
         }
       ],
-      "hashtag": "オムニ屋、くぜくぜ卓、エモクロアTRPG、肉声セッション",
+      "links": [
+        {
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=F_yRwxdtglo"
+        }
+      ],
+      "hashtag": "Jのんの島",
       "adminNote": "",
       "relatedLinks": []
     },
@@ -4411,7 +4610,48 @@
       "scenario": "沼男は誰だ？",
       "system": "CoC6版",
       "gm": "高生紳士",
-      "characters": [],
+      "characters": [
+        {
+          "pcName": "有馬昴",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "ヤン・フェンマオ",
+          "plName": "白夜零兎",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "浅桜楓",
+          "plName": "ヨシヅキ参謀",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "賀美都偲郎",
+          "plName": "水凪自由",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "守明ふみや",
+          "plName": "藍月すりっぷ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
           "label": "前編",
@@ -4422,7 +4662,7 @@
           "url": "https://www.youtube.com/watch?v=rvqmLktceTw"
         }
       ],
-      "hashtag": "",
+      "hashtag": "あたたかくなる沼男",
       "adminNote": "",
       "relatedLinks": []
     },
@@ -4430,9 +4670,34 @@
       "id": "stream_109",
       "date": "2024/02/09",
       "scenario": "はじめての社会科見学 七不思議捕獲大作戦！",
-      "system": "CoC6版",
+      "system": "エモクロア",
       "gm": "necoze",
-      "characters": [],
+      "characters": [
+        {
+          "pcName": "朱華葵",
+          "plName": "むつー",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "十斧さとし",
+          "plName": "ぱぱびっぷ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "風見蒼空",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
           "label": "前編",
@@ -4443,34 +4708,42 @@
           "url": "https://www.youtube.com/watch?v=QmbjqMBdAqc"
         }
       ],
-      "hashtag": "",
+      "hashtag": "しのむつびっぷ大作戦",
       "adminNote": "",
       "relatedLinks": []
     },
     {
       "id": "stream_110",
-      "date": "2024/02/01",
-      "scenario": "狂気山脈～邪神の山嶺～",
-      "system": "CoC6版",
-      "gm": "四宮伊織",
-      "characters": [],
-      "links": [
-        {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=BxEDQnnWvf0"
-        }
-      ],
-      "hashtag": "",
-      "adminNote": "",
-      "relatedLinks": []
-    },
-    {
-      "id": "stream_111",
       "date": "2024/01/29",
       "scenario": "狂気山脈 ～邪神の山嶺～",
       "system": "CoC6版",
       "gm": "高生紳士",
-      "characters": [],
+      "characters": [
+        {
+          "pcName": "高槻煙",
+          "plName": "紺野和泉",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "凪良燈",
+          "plName": "神威J威弦",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "篝清春",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
           "label": "前編",
@@ -4481,29 +4754,38 @@
           "url": "https://www.youtube.com/watch?v=ZQsvOBHe34E"
         }
       ],
-      "hashtag": "",
+      "hashtag": "Jのんの山脈",
+      "adminNote": "",
+      "relatedLinks": []
+    },
+    {
+      "id": "stream_111",
+      "date": "2024/01/22",
+      "scenario": "キブンゼ",
+      "system": "エモクロア",
+      "gm": "necoze",
+      "characters": [
+        {
+          "pcName": "雨花樹",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
+      "links": [
+        {
+          "label": "YouTube",
+          "url": "https://www.youtube.com/watch?v=vmJ1UDuksjA"
+        }
+      ],
+      "hashtag": "四宮ブンゼ",
       "adminNote": "",
       "relatedLinks": []
     },
     {
       "id": "stream_112",
-      "date": "2024/01/22",
-      "scenario": "キブンゼ",
-      "system": "CoC6版",
-      "gm": "necoze",
-      "characters": [],
-      "links": [
-        {
-          "label": "YouTube",
-          "url": "#四:https://www.youtube.com/watch?v=vmJ1UDuksjA"
-        }
-      ],
-      "hashtag": "",
-      "adminNote": "",
-      "relatedLinks": []
-    },
-    {
-      "id": "stream_113",
       "date": "2024/01/18",
       "scenario": "近くて遠きは終着点",
       "system": "CoC6版",
@@ -4552,22 +4834,40 @@
           "url": "https://www.youtube.com/watch?v=Nlz5VnlB-no"
         }
       ],
-      "hashtag": "",
+      "hashtag": "ちかしゅう04",
       "adminNote": "",
       "relatedLinks": [
         {
-          "label": "詳細リンク",
-          "url": "[リプレイ動画](https://youtu.be/9kDvgnTXMAM?si=a2ebJYEhbc8apQ0-)"
+          "label": "リプレイ動画",
+          "url": "https://youtu.be/9kDvgnTXMAM?si=a2ebJYEhbc8apQ0-",
+          "comment": ""
         }
       ]
     },
     {
-      "id": "stream_114",
+      "id": "stream_113",
       "date": "2024/01/11",
       "scenario": "君が君である限り",
-      "system": "CoC6版",
-      "gm": "disfact / Fifteen",
-      "characters": [],
+      "system": "CoC7版",
+      "gm": "Fifteen, さく",
+      "characters": [
+        {
+          "pcName": "日下部牡丹",
+          "plName": "すぎうらきりと",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "伊吹寅",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
           "label": "前編",
@@ -4578,37 +4878,89 @@
           "url": "https://www.youtube.com/watch?v=xTNCF_iLRTA"
         }
       ],
-      "hashtag": "",
+      "hashtag": "きりみや君君",
       "adminNote": "",
       "relatedLinks": []
     },
     {
-      "id": "stream_115",
+      "id": "stream_114",
       "date": "2024/01/06",
       "scenario": "誰がロックを殺すのか",
       "system": "CoC6版",
       "gm": "高生紳士",
-      "characters": [],
+      "characters": [
+        {
+          "pcName": "紅井凌也",
+          "plName": "藍月すりっぷ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "不二一澄",
+          "plName": "ヨシヅキ参謀",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "黄金宮生登",
+          "plName": "水凪自由",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "雨宮七瀬",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=E79LyHNKueU"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=E79LyHNKueU"
         }
       ],
       "hashtag": "誰ロクCemetery",
       "adminNote": "",
-      "relatedLinks": []
+      "relatedLinks": [
+        {
+          "label": "ふせったー",
+          "url": "https://x.com/iori_shinomiya/status/1743804510982795391?s=20",
+          "comment": ""
+        },
+        {
+          "label": "Love Me Fender",
+          "url": "https://youtu.be/4RFBpoyedro?si=RpTrre5FwKyzBWsy",
+          "comment": ""
+        }
+      ]
     },
     {
-      "id": "stream_116",
+      "id": "stream_115",
       "date": "2023/12/09",
       "scenario": "AI KILLED YOU",
       "system": "CoC6版",
       "gm": "川犬",
       "characters": [
         {
-          "pcName": "むつー/四宮伊織",
-          "plName": "",
+          "pcName": "御影真琴",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "衛藤岱希",
+          "plName": "むつー",
           "history": "",
           "profile": "",
           "charasheetUrl": "",
@@ -4625,57 +4977,120 @@
           "url": "https://www.youtube.com/watch?v=VKsbZhpT4lI"
         }
       ],
-      "hashtag": "",
+      "hashtag": "むつみやAIキル",
       "adminNote": "",
       "relatedLinks": []
     },
     {
-      "id": "stream_117",
+      "id": "stream_116",
       "date": "2023/11/27",
       "scenario": "Paranormal Crime",
       "system": "CoC6版",
-      "gm": "高生紳士",
-      "characters": [],
+      "gm": "スイ",
+      "characters": [
+        {
+          "pcName": "アキラ・アカツキ",
+          "plName": "高生紳士",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "タイラー・グリーンフィールド",
+          "plName": "藍月すりっぷ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "コリー・マーフィー",
+          "plName": "ヨシヅキ参謀",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "ルディ・ロペス",
+          "plName": "水凪自由",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "ノア・クルーウェル",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "イアン・スコット",
+          "plName": "白夜零兎",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
-          "label": "本編",
+          "label": "1",
           "url": "https://www.youtube.com/watch?v=qBqzuWhZd6k"
         },
         {
-          "label": "本編",
+          "label": "2",
           "url": "https://www.youtube.com/watch?v=noWXfz-5hWI"
         },
         {
-          "label": "本編",
+          "label": "3",
           "url": "https://www.youtube.com/watch?v=pCMlsR7vzUU"
         },
         {
-          "label": "本編",
+          "label": "4",
           "url": "https://www.youtube.com/watch?v=mALCdfJIj9A"
         },
         {
-          "label": "本編",
+          "label": "5",
           "url": "https://www.youtube.com/watch?v=V40pYsGv12I"
         },
         {
-          "label": "本編",
+          "label": "6",
           "url": "https://www.youtube.com/watch?v=4MQUsM9cmhQ"
         }
       ],
       "hashtag": "あたなるパラクラ",
       "adminNote": "",
-      "relatedLinks": []
+      "relatedLinks": [
+        {
+          "label": "ふせったー",
+          "url": "https://x.com/iori_shinomiya/status/1732501606669967480?s=20",
+          "comment": ""
+        }
+      ]
     },
     {
-      "id": "stream_118",
+      "id": "stream_117",
       "date": "2023/11/17",
-      "scenario": "デストルドーの使者 /",
-      "system": "CoC6版",
-      "gm": "【権利表記】",
+      "scenario": "デストルドーの使者",
+      "system": "CoC7版",
+      "gm": "中尾ヤスヒロ",
       "characters": [
         {
-          "pcName": "shinomiyaiori、 takao_shinji",
-          "plName": "",
+          "pcName": "相馬左京",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "流石鈴風",
+          "plName": "高生紳士",
           "history": "",
           "profile": "",
           "charasheetUrl": "",
@@ -4690,36 +5105,130 @@
         {
           "label": "後編",
           "url": "https://www.youtube.com/watch?v=CH2ooYTi1jA"
+        },
+        {
+          "label": "感想枠",
+          "url": "https://www.youtube.com/live/xeGmkbNy340?si=jgF3aGDTccU8W5iJ"
         }
       ],
-      "hashtag": "なかお卓",
+      "hashtag": "たかみやの使者",
+      "adminNote": "",
+      "relatedLinks": []
+    },
+    {
+      "id": "stream_118",
+      "date": "2023/11/14",
+      "scenario": "プル夜刑事探索者 格付けチェック",
+      "system": "CoC7版",
+      "gm": "中尾ヤスヒロ",
+      "characters": [
+        {
+          "pcName": "相馬左京",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "流石鈴風",
+          "plName": "高生紳士",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "刑部一星",
+          "plName": "しぐれなお",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "珊豪カズラ",
+          "plName": "藍月すりっぷ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "比留間兇",
+          "plName": "白夜零兎",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "花淵真実",
+          "plName": "ヨシヅキ参謀",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "笠川裕介",
+          "plName": "小日向りゅーじ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "多川交",
+          "plName": "水凪自由",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
+      "links": [
+        {
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=LX764vuSGAQ"
+        }
+      ],
+      "hashtag": "プル夜格付けチェック",
       "adminNote": "",
       "relatedLinks": []
     },
     {
       "id": "stream_119",
-      "date": "2023/11/14",
-      "scenario": "プル夜刑事探索者 格付けチェック",
-      "system": "CoC6版",
-      "gm": "【権利表記】",
-      "characters": [],
-      "links": [
-        {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=LX764vuSGAQ"
-        }
-      ],
-      "hashtag": "なかお卓",
-      "adminNote": "",
-      "relatedLinks": []
-    },
-    {
-      "id": "stream_120",
       "date": "2023/11/10",
-      "scenario": "｜ Re:chain",
+      "scenario": "Re:chain",
       "system": "CoC6版",
       "gm": "necoze",
-      "characters": [],
+      "characters": [
+        {
+          "pcName": "善部愛輔",
+          "plName": "ヨシヅキ参謀",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "椿森深雪",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "機織冬斯",
+          "plName": "高生紳士",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
           "label": "前編",
@@ -4730,20 +5239,78 @@
           "url": "https://www.youtube.com/watch?v=pdaSZSVD1fY"
         }
       ],
-      "hashtag": "",
+      "hashtag": "高月宮Re_chain",
+      "adminNote": "",
+      "relatedLinks": []
+    },
+    {
+      "id": "stream_120",
+      "date": "2023/11/07",
+      "scenario": "レプリカントの葬列",
+      "system": "CoC6版",
+      "gm": "すぎうらきりと",
+      "characters": [
+        {
+          "pcName": "No.2",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "レイヴン",
+          "plName": "白夜零兎",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
+      "links": [
+        {
+          "label": "1",
+          "url": "https://www.youtube.com/watch?v=QeXlOMwAGG0"
+        },
+        {
+          "label": "2",
+          "url": "https://www.youtube.com/watch?v=8Zkg_kOK7WE"
+        },
+        {
+          "label": "3",
+          "url": "https://www.youtube.com/watch?v=awt558J3OG0"
+        }
+      ],
+      "hashtag": "しろみやの葬列",
       "adminNote": "",
       "relatedLinks": []
     },
     {
       "id": "stream_121",
-      "date": "2023/11/07",
-      "scenario": "レプリカントの葬列／PL：四宮伊織、白夜零兎",
-      "system": "CoC6版",
-      "gm": "すぎうらきりと",
+      "date": "2023/11/05",
+      "scenario": "帝都殲滅計画",
+      "system": "エモクロア",
+      "gm": "ぱぱびっぷ",
       "characters": [
         {
-          "pcName": "四宮伊織、 shinomiyaiori、 白夜零兎、 ShiroyaReito、 PC立ち絵：安紀、 ※敬称略、 Booth⇒、 PixivFANBOX⇒、 マシュマロ⇒、 キャラデザ⇒",
-          "plName": "",
+          "pcName": "馬締杉流",
+          "plName": "夢咲刻夜",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "我那覇柳児",
+          "plName": "むつー",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "九条つみき",
+          "plName": "四宮伊織",
           "history": "",
           "profile": "",
           "charasheetUrl": "",
@@ -4753,79 +5320,113 @@
       "links": [
         {
           "label": "本編",
-          "url": "https://www.youtube.com/watch?v=QeXlOMwAGG0"
-        },
-        {
-          "label": "本編",
-          "url": "https://www.youtube.com/watch?v=8Zkg_kOK7WE"
-        },
-        {
-          "label": "本編",
-          "url": "https://www.youtube.com/watch?v=awt558J3OG0"
+          "url": "https://www.youtube.com/watch?v=QOeHICUFwnQ"
         }
       ],
-      "hashtag": "しろみやの葬列",
+      "hashtag": "むつときのみや殲滅計画",
       "adminNote": "",
       "relatedLinks": []
     },
     {
       "id": "stream_122",
-      "date": "2023/11/05",
-      "scenario": "エモクロアTRPG「帝都殲滅計画」",
-      "system": "エモクロア",
-      "gm": "ぱぱびっぷTRPG",
-      "characters": [],
-      "links": [
+      "date": "2023/10/27",
+      "scenario": "寒煙に灰くだり",
+      "system": "CoC6版",
+      "gm": "四宮伊織",
+      "characters": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=QOeHICUFwnQ"
+          "pcName": "流石鈴風",
+          "plName": "高生紳士",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
         }
       ],
-      "hashtag": "ぱぱPNG",
+      "links": [
+        {
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=M2hN8Uq1NEo"
+        }
+      ],
+      "hashtag": "高生の灰くだり",
       "adminNote": "",
       "relatedLinks": []
     },
     {
       "id": "stream_123",
-      "date": "2023/10/27",
-      "scenario": "寒煙に灰くだり",
+      "date": "2023/10/17",
+      "scenario": "隔てる目睛",
       "system": "CoC6版",
       "gm": "四宮伊織",
-      "characters": [],
-      "links": [
+      "characters": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=M2hN8Uq1NEo"
+          "pcName": "玄冬鶍",
+          "plName": "ヨシヅキ参謀",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "流石鈴風",
+          "plName": "高生紳士",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
         }
       ],
-      "hashtag": "",
+      "links": [
+        {
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=aTPwTSNykyk"
+        }
+      ],
+      "hashtag": "隔てる高月宮",
       "adminNote": "",
       "relatedLinks": []
     },
     {
       "id": "stream_124",
-      "date": "2023/10/17",
-      "scenario": "隔てる目睛",
-      "system": "CoC6版",
-      "gm": "四宮伊織",
-      "characters": [],
-      "links": [
-        {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=aTPwTSNykyk"
-        }
-      ],
-      "hashtag": "",
-      "adminNote": "",
-      "relatedLinks": []
-    },
-    {
-      "id": "stream_125",
       "date": "2023/10/14",
       "scenario": "ぼくらの空想都市計画",
       "system": "CoC6版",
-      "gm": "小日向ちゃんねる!",
-      "characters": [],
+      "gm": "小日向りゅーじ",
+      "characters": [
+        {
+          "pcName": "挟平和",
+          "plName": "高生紳士",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "因幡白兎",
+          "plName": "紺野和泉",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "弾気狼子",
+          "plName": "水凪自由",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "藤堂蹴斗",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
           "label": "前編",
@@ -4836,12 +5437,12 @@
           "url": "https://www.youtube.com/watch?v=KkiJPmxWqms"
         }
       ],
-      "hashtag": "こひな卓、漫画家たちの空想都市計画",
+      "hashtag": "漫画家たちの空想都市計画",
       "adminNote": "",
       "relatedLinks": []
     },
     {
-      "id": "stream_126",
+      "id": "stream_125",
       "date": "2023/10/11",
       "scenario": "朱殷ノ母",
       "system": "エモクロア",
@@ -4849,24 +5450,24 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=VBCLwjDND9s"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=VBCLwjDND9s"
         }
       ],
-      "hashtag": "くぜくぜ卓、あしこしノ母、オムニ屋、クトゥルフ神話TRPG、肉声セッション",
+      "hashtag": "あしこしノ母",
       "adminNote": "",
       "relatedLinks": []
     },
     {
-      "id": "stream_127",
+      "id": "stream_126",
       "date": "2023/10/06",
-      "scenario": "幸せの在り処／PL：四宮伊織",
+      "scenario": "幸せの在り処",
       "system": "CoC6版",
-      "gm": "すぎうらきりと",
+      "gm": "すぎうらきりと, さけこ。",
       "characters": [
         {
-          "pcName": "SKP：さけこ。、 EDムービー：あけ、 ※敬称略、 Booth⇒、 PixivFANBOX⇒、 キャラデザ⇒",
-          "plName": "",
+          "pcName": "アルザ・ラニ＝アーゼム",
+          "plName": "四宮伊織",
           "history": "",
           "profile": "",
           "charasheetUrl": "",
@@ -4875,11 +5476,45 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=gThG_vxU160"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=gThG_vxU160"
         }
       ],
       "hashtag": "いおりのありか",
+      "adminNote": "",
+      "relatedLinks": []
+    },
+    {
+      "id": "stream_127",
+      "date": "2023/09/12",
+      "scenario": "COIN",
+      "system": "エモクロア",
+      "gm": "四宮伊織",
+      "characters": [
+        {
+          "pcName": "辛篤幸",
+          "plName": "ヨシヅキ参謀",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "宮乃澪",
+          "plName": "彩音れおん",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
+      "links": [
+        {
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=ZnD2mwNH3LA"
+        }
+      ],
+      "hashtag": "天国と地獄のCOIN",
       "adminNote": "",
       "relatedLinks": []
     },
@@ -4888,45 +5523,143 @@
       "date": "2023/09/02",
       "scenario": "ウルトラヒロイック",
       "system": "エモクロア",
-      "gm": "MonsterZ MATE",
-      "characters": [],
-      "links": [
+      "gm": "コーサカ",
+      "characters": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=vOI11edTYT4"
+          "pcName": "ゴッズ・リンドウルム",
+          "plName": "むつー",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "ガルマ・リマ・アルマ",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "カガリ",
+          "plName": "鈴木翔平",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "ヴィゴーニア=リコリウス=アズローゼ",
+          "plName": "白夜零兎",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
         }
       ],
-      "hashtag": "すしぜむヒロイック、MZM、モンスターズメイト",
+      "links": [
+        {
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=vOI11edTYT4"
+        }
+      ],
+      "hashtag": "すしぜむヒロイック",
       "adminNote": "",
       "relatedLinks": []
     },
     {
       "id": "stream_129",
       "date": "2023/08/23",
-      "scenario": "🚉新約・あたなる駅",
+      "scenario": "新約・あたなる駅",
       "system": "エモクロア",
-      "gm": "まだら牛 【山とかTRPGとか】",
-      "characters": [],
-      "links": [
+      "gm": "まだら牛",
+      "characters": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=aoVvNtUeKGo"
+          "pcName": "高生紳士",
+          "plName": "高生紳士",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "水凪自由",
+          "plName": "水凪自由",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "紺野和泉",
+          "plName": "紺野和泉",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "ヨシヅキ参謀",
+          "plName": "ヨシヅキ参謀",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "四宮伊織",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
         }
       ],
-      "hashtag": "あたたかくなる、新約あたなる駅",
+      "links": [
+        {
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=aoVvNtUeKGo"
+        }
+      ],
+      "hashtag": "新約あたなる駅",
       "adminNote": "",
       "relatedLinks": []
     },
     {
       "id": "stream_130",
       "date": "2023/08/19",
-      "scenario": "目を眩ませるあなたへ。「カノヨ街」",
+      "scenario": "カノヨ街",
       "system": "エモクロア",
-      "gm": "むつー",
+      "gm": "七篠K",
       "characters": [
         {
-          "pcName": "七篠Ｋ、 高生紳士、 四宮伊織、 中尾ヤスヒロ、 むつー、 #たしなむカノヨ",
-          "plName": "",
+          "pcName": "牙鳥",
+          "plName": "高生紳士",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "野衾モモン",
+          "plName": "中尾ヤスヒロ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "舌垂桜",
+          "plName": "むつー",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "麝香",
+          "plName": "四宮伊織",
           "history": "",
           "profile": "",
           "charasheetUrl": "",
@@ -4947,54 +5680,126 @@
           "url": "https://www.youtube.com/watch?v=1dFksTNaEXQ"
         }
       ],
-      "hashtag": "クトゥルフ神話TRPG、たしなむカノヨ、むつー卓",
+      "hashtag": "たしなむカノヨ",
       "adminNote": "",
       "relatedLinks": []
     },
     {
       "id": "stream_131",
       "date": "2023/08/05",
-      "scenario": "クトゥルフ神話TRPG「ロスト・ロワイアルシティ」",
+      "scenario": "ロスト・ロワイアルシティ",
       "system": "CoC6版",
       "gm": "高生紳士",
-      "characters": [],
-      "links": [
+      "characters": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=QTHhHhI-trk"
+          "pcName": "佐山鶴城",
+          "plName": "しぐれなお",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "柳一兎",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "一途重愛生",
+          "plName": "水凪自由",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "黒崎猟",
+          "plName": "白夜零兎",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "真藤切",
+          "plName": "紺野和泉",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "折波羅真偽",
+          "plName": "藍月すりっぷ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
         }
       ],
-      "hashtag": "あたなる50時間配信Part4、ファンブルしたらロストする卓",
+      "links": [
+        {
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=QTHhHhI-trk"
+        }
+      ],
+      "hashtag": "ファンブルしたらロストする卓",
       "adminNote": "",
       "relatedLinks": []
     },
     {
       "id": "stream_132",
       "date": "2023/08/01",
-      "scenario": "クトゥルフ神話TRPG「怪物a」",
+      "scenario": "怪物a",
       "system": "CoC6版",
       "gm": "霧島ジャック",
-      "characters": [],
+      "characters": [
+        {
+          "pcName": "立花匡",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=zAwa5syOvoY"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=zAwa5syOvoY"
         }
       ],
       "hashtag": "怪物四宮",
       "adminNote": "",
-      "relatedLinks": []
+      "relatedLinks": [
+        {
+          "label": "ふせったー",
+          "url": "https://x.com/iori_shinomiya/status/1686661163101356032?s=46",
+          "comment": ""
+        }
+      ]
     },
     {
       "id": "stream_133",
       "date": "2023/07/29",
-      "scenario": "鰯と柊　／KP：結崎有理、ALTO　PL：しぐれなお、四宮伊織",
+      "scenario": "鰯と柊",
       "system": "CoC6版",
-      "gm": "ALTO",
+      "gm": "結崎有理, ALTO",
       "characters": [
         {
-          "pcName": "HO鰯教祖/しぐれなお、 HO柊信者/四宮伊織、 PCillustration、 たくみ、 SE/効果音ラボ、 ---、 結崎有理（ゆいざきゆうり）(ゆいざきゆうり)、 Web：",
-          "plName": "",
+          "pcName": "凛々",
+          "plName": "しぐれなお",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "一之森真白",
+          "plName": "四宮伊織",
           "history": "",
           "profile": "",
           "charasheetUrl": "",
@@ -5018,13 +5823,29 @@
     {
       "id": "stream_134",
       "date": "2023/07/21",
-      "scenario": "「ネバーランド・クラブ」PL：四宮 伊織/小日向りゅーじ/白夜零兎　KP：ラングドシャ",
+      "scenario": "ネバーランド・クラブ",
       "system": "CoC6版",
-      "gm": "天使代行ラングドシャchannel",
+      "gm": "ラングドシャ",
       "characters": [
         {
-          "pcName": "PL：、 四宮伊織、 小日向りゅーじ、 白夜零兎、 KP：ラングドシャ、 マシュマロ：、 FANBOX：、 お借りしたもの、 アキ二号機様、 Peritune様、 DOVA-SYNDROME様、 背景専門店みにくる様、 【権利表記】",
-          "plName": "",
+          "pcName": "テオ・クレイトン",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "アルバード・クラウ",
+          "plName": "小日向りゅーじ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "ウィラード・ノックス",
+          "plName": "白夜零兎",
           "history": "",
           "profile": "",
           "charasheetUrl": "",
@@ -5033,8 +5854,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=jXH0nTtmBOY"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=jXH0nTtmBOY"
         }
       ],
       "hashtag": "宮りゅーぜろクラブ",
@@ -5045,13 +5866,46 @@
       "id": "stream_135",
       "date": "2023/07/17",
       "scenario": "マーメイドビーチサマー！",
-      "system": "CoC6版",
+      "system": "エモクロア",
       "gm": "高生紳士",
-      "characters": [],
+      "characters": [
+        {
+          "pcName": "大御門幸史",
+          "plName": "ヨシヅキ参謀",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "三鷹虎徹",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "松山太陽",
+          "plName": "しぐれなお",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "神藤那木紗",
+          "plName": "藍月すりっぷ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=qUxX-spUyZQ"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=qUxX-spUyZQ"
         }
       ],
       "hashtag": "マーメイド水泳部",
@@ -5063,7 +5917,7 @@
       "date": "2023/07/13",
       "scenario": "遥かなる夏へ",
       "system": "CoC6版",
-      "gm": "disfact / Fifteen",
+      "gm": "Fifteen",
       "characters": [],
       "links": [
         {
@@ -5084,12 +5938,29 @@
       "date": "2023/07/08",
       "scenario": "片鱗",
       "system": "CoC6版",
-      "gm": "さけこ。",
-      "characters": [],
+      "gm": "さけこ。, ひよりん*",
+      "characters": [
+        {
+          "pcName": "尺一律",
+          "plName": "ヨシヅキ参謀",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "更科夜明",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=4sPobDliaLQ"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=4sPobDliaLQ"
         }
       ],
       "hashtag": "月宮片鱗",
@@ -5102,11 +5973,28 @@
       "scenario": "闇夜児童奇譚",
       "system": "CoC6版",
       "gm": "高生紳士",
-      "characters": [],
+      "characters": [
+        {
+          "pcName": "森二千佳",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "深水暁",
+          "plName": "ヨシヅキ参謀",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=gGcSj7LFmpw"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=gGcSj7LFmpw"
         }
       ],
       "hashtag": "月宮児童奇譚",
@@ -5122,11 +6010,11 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=X96x5DfT6WQ"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=X96x5DfT6WQ"
         }
       ],
-      "hashtag": "6月の1日シナリオ",
+      "hashtag": "",
       "adminNote": "",
       "relatedLinks": []
     },
@@ -5138,8 +6026,24 @@
       "gm": "鈴木翔平",
       "characters": [
         {
-          "pcName": "▼DL&シナリオ、 鈴木翔平、 ▼イラスト、 戯嶋サチ、 つきのわむく、 モデル提供：うりのすけ",
-          "plName": "",
+          "pcName": "松倉茉莉",
+          "plName": "すぎうらきりと",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "梧桐堕亥",
+          "plName": "藍月すりっぷ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "早乙女不可思議",
+          "plName": "四宮伊織",
           "history": "",
           "profile": "",
           "charasheetUrl": "",
@@ -5148,11 +6052,11 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=TUC0gIq1Ld8"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=TUC0gIq1Ld8"
         }
       ],
-      "hashtag": "すりきりおりの掛川シ旅、掛川シ集",
+      "hashtag": "すりきりおりの掛川シ旅",
       "adminNote": "",
       "relatedLinks": []
     },
@@ -5164,8 +6068,24 @@
       "gm": "つきのわむく",
       "characters": [
         {
-          "pcName": "藍月すりっぷ、 四宮伊織、 すぎうらきりと、 PC&NPCイラスト、 戯嶋サチ、 音楽、 audiostock、 効果音：効果音ラボ、 カットイン素材、 製作：にわとり小屋、 写真、 Booth⇒、 PixivFANBOX⇒、 キャラデザ⇒",
-          "plName": "",
+          "pcName": "松倉茉莉",
+          "plName": "すぎうらきりと",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "梧桐堕亥",
+          "plName": "藍月すりっぷ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "早乙女不可思議",
+          "plName": "四宮伊織",
           "history": "",
           "profile": "",
           "charasheetUrl": "",
@@ -5174,11 +6094,11 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=cR_FoVq5kM0"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=cR_FoVq5kM0"
         }
       ],
-      "hashtag": "すりきりおりの掛川シ旅、掛川シ集",
+      "hashtag": "すりきりおりの掛川シ旅",
       "adminNote": "",
       "relatedLinks": []
     },
@@ -5188,14 +6108,39 @@
       "scenario": "霧にむせぶ街",
       "system": "エモクロア",
       "gm": "文町",
-      "characters": [],
-      "links": [
+      "characters": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=4XLTgGBNjb0"
+          "pcName": "松倉茉莉",
+          "plName": "すぎうらきりと",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "梧桐堕亥",
+          "plName": "藍月すりっぷ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "早乙女不可思議",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
         }
       ],
-      "hashtag": "エモクロアTRPG",
+      "links": [
+        {
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=4XLTgGBNjb0"
+        }
+      ],
+      "hashtag": "すりきりおりの掛川シ旅",
       "adminNote": "",
       "relatedLinks": []
     },
@@ -5203,13 +6148,38 @@
       "id": "stream_143",
       "date": "2023/06/20",
       "scenario": "帰らじの理想郷",
-      "system": "CoC6版",
+      "system": "CoC7版",
       "gm": "ディズム",
-      "characters": [],
+      "characters": [
+        {
+          "pcName": "織附紬",
+          "plName": "なない",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "与都章斗",
+          "plName": "影。",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "水上竜太朗",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=aG4oms-mwUI"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=aG4oms-mwUI"
         }
       ],
       "hashtag": "帰らじのななしのまる",
@@ -5222,41 +6192,66 @@
       "scenario": "迷子の音八",
       "system": "エモクロア",
       "gm": "ディズム",
-      "characters": [],
-      "links": [
+      "characters": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=MmmtAcL01CY"
+          "pcName": "松倉茉莉",
+          "plName": "すぎうらきりと",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "梧桐堕亥",
+          "plName": "藍月すりっぷ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "早乙女不可思議",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
         }
       ],
-      "hashtag": "すりきりおりの掛川シ旅、掛川シ集",
+      "links": [
+        {
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=MmmtAcL01CY"
+        }
+      ],
+      "hashtag": "すりきりおりの掛川シ旅",
       "adminNote": "",
       "relatedLinks": []
     },
     {
       "id": "stream_145",
-      "date": "2023/06/18",
-      "scenario": "同居人感想",
+      "date": "2023/06/14",
+      "scenario": "同居人",
       "system": "CoC6版",
-      "gm": "四宮伊織",
-      "characters": [],
-      "links": [
+      "gm": "高音超子",
+      "characters": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=nqdbdFuzHUA"
+          "pcName": "御子神灯梨",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "玄冬鶍",
+          "plName": "ヨシヅキ参謀",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
         }
       ],
-      "hashtag": "月宮同居人",
-      "adminNote": "",
-      "relatedLinks": []
-    },
-    {
-      "id": "stream_146",
-      "date": "2023/06/14",
-      "scenario": "同居人（）PL：四宮伊織 / ヨシヅキ参謀",
-      "system": "CoC6版",
-      "gm": "四宮伊織",
-      "characters": [],
       "links": [
         {
           "label": "前編",
@@ -5269,19 +6264,67 @@
         {
           "label": "後編",
           "url": "https://www.youtube.com/watch?v=1gzvictnnag"
+        },
+        {
+          "label": "感想",
+          "url": "https://www.youtube.com/watch?v=nqdbdFuzHUA"
         }
       ],
-      "hashtag": "",
+      "hashtag": "月宮同居人",
       "adminNote": "",
-      "relatedLinks": []
+      "relatedLinks": [
+        {
+          "label": "ふせったー",
+          "url": "https://x.com/chief_sunbow/status/1669734678390251521?s=46",
+          "comment": ""
+        },
+        {
+          "label": "ふせったー",
+          "url": "https://x.com/iori_shinomiya/status/1669730579104038912?s=46",
+          "comment": ""
+        }
+      ]
     },
     {
-      "id": "stream_147",
+      "id": "stream_146",
       "date": "2023/06/05",
       "scenario": "永久の一日",
       "system": "CoC6版",
       "gm": "高生紳士",
-      "characters": [],
+      "characters": [
+        {
+          "pcName": "早乙女まろ",
+          "plName": "藍月なくる",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "天命運",
+          "plName": "藍月すりっぷ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "秋津百春",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "堂島松花",
+          "plName": "周央サンゴ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
           "label": "前編",
@@ -5297,12 +6340,37 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_148",
+      "id": "stream_147",
       "date": "2023/06/03",
-      "scenario": "● ｜ 恐怖！怪奇！実録！人喰い廃墟！に行ってみたｗ",
+      "scenario": "恐怖！怪奇！実録！人喰い廃墟！に行ってみたｗ",
       "system": "CoC6版",
       "gm": "necoze",
-      "characters": [],
+      "characters": [
+        {
+          "pcName": "佐々森円香",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "鈴持センリ",
+          "plName": "中尾ヤスヒロ",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "火霊幽火",
+          "plName": "高生紳士",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
           "label": "前編",
@@ -5313,21 +6381,21 @@
           "url": "https://www.youtube.com/watch?v=8hJIL_hE7xU"
         }
       ],
-      "hashtag": "",
+      "hashtag": "ゆうれい倶楽部が行ってみたw",
       "adminNote": "",
       "relatedLinks": []
     },
     {
-      "id": "stream_149",
+      "id": "stream_148",
       "date": "2023/05/28",
       "scenario": "ChatGPTに作ってもらった鈴木翔平っぽいシナリオをみんなに遊んでもらう",
-      "system": "CoC6版",
+      "system": "",
       "gm": "鈴木翔平",
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=GHq0Lyn1-bc"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=GHq0Lyn1-bc"
         }
       ],
       "hashtag": "コピー翔平",
@@ -5335,16 +6403,41 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_150",
+      "id": "stream_149",
       "date": "2023/05/26",
       "scenario": "忘れじの理想郷",
-      "system": "CoC6版",
+      "system": "CoC7版",
       "gm": "ディズム",
-      "characters": [],
+      "characters": [
+        {
+          "pcName": "織附紬",
+          "plName": "なない",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "与都章斗",
+          "plName": "影。",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        },
+        {
+          "pcName": "水上竜太朗",
+          "plName": "四宮伊織",
+          "history": "",
+          "profile": "",
+          "charasheetUrl": "",
+          "note": ""
+        }
+      ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=HzqBsIdTgCw"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=HzqBsIdTgCw"
         }
       ],
       "hashtag": "忘れじのななしのまる",
@@ -5352,7 +6445,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_151",
+      "id": "stream_150",
       "date": "2023/05/17",
       "scenario": "漂流宙域",
       "system": "CoC6版",
@@ -5360,16 +6453,16 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=To-9QYwPFsI"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=To-9QYwPFsI"
         }
       ],
-      "hashtag": "",
+      "hashtag": "しのんの漂流",
       "adminNote": "",
       "relatedLinks": []
     },
     {
-      "id": "stream_152",
+      "id": "stream_151",
       "date": "2023/05/06",
       "scenario": "COIN",
       "system": "エモクロア",
@@ -5387,18 +6480,6 @@
       "links": [
         {
           "label": "本編",
-          "url": "https://www.youtube.com/watch?v=iXyR-ofHxGI"
-        },
-        {
-          "label": "本編",
-          "url": "https://www.youtube.com/watch?v=7C0x1NnDFS0"
-        },
-        {
-          "label": "本編",
-          "url": "https://www.youtube.com/watch?v=ZnD2mwNH3LA"
-        },
-        {
-          "label": "本編",
           "url": "https://www.youtube.com/watch?v=aQ9RsbrjO6E"
         },
         {
@@ -5410,12 +6491,12 @@
           "url": "https://www.youtube.com/watch?v=O-WqvTwPIRY"
         }
       ],
-      "hashtag": "さけひよCOIN、しろんのCOIN、天国と地獄のCOIN、藍黄色COIN、エモクロアTRPG、しのむつCOIN、むつー卓",
+      "hashtag": "藍黄色COIN、しのむつCOIN",
       "adminNote": "",
       "relatedLinks": []
     },
     {
-      "id": "stream_153",
+      "id": "stream_152",
       "date": "2023/04/28",
       "scenario": "ハートフルワンダーランド   KP・ｼﾅﾘｵ川犬 PLすぎうらきりと/結崎有理/さけこ。/四宮伊織",
       "system": "CoC6版",
@@ -5436,7 +6517,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_154",
+      "id": "stream_153",
       "date": "2023/04/17",
       "scenario": "壊胎",
       "system": "CoC6版",
@@ -5444,8 +6525,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=Z3HCtVMkRYs"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=Z3HCtVMkRYs"
         }
       ],
       "hashtag": "しのんの壊胎",
@@ -5453,7 +6534,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_155",
+      "id": "stream_154",
       "date": "2023/04/13",
       "scenario": "クトゥルフ神話TRPG「静なるテロリスタ」",
       "system": "CoC6版",
@@ -5511,7 +6592,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_156",
+      "id": "stream_155",
       "date": "2023/04/12",
       "scenario": "クトゥルフ神話TRPG「静なるテロリスタ」 HO異邦人",
       "system": "CoC6版",
@@ -5519,8 +6600,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=4ptfbko-0M8"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=4ptfbko-0M8"
         }
       ],
       "hashtag": "ぷりんすテロリスタ",
@@ -5528,7 +6609,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_157",
+      "id": "stream_156",
       "date": "2023/04/05",
       "scenario": "クトゥルフ神話TRPG「欲望街」三日目《KP：高音超子　PL：高生紳士/四宮伊織/ヨシヅキ参謀》",
       "system": "CoC6版",
@@ -5536,8 +6617,25 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=iXQbbWuEavs"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=iXQbbWuEavs"
+        }
+      ],
+      "hashtag": "あたなる欲望街",
+      "adminNote": "",
+      "relatedLinks": []
+    },
+    {
+      "id": "stream_157",
+      "date": "2023/04/04",
+      "scenario": "クトゥルフ神話TRPG「欲望街」二日目《KP：高音超子　PL：高生紳士/四宮伊織/ヨシヅキ参謀》",
+      "system": "CoC6版",
+      "gm": "高音　超子@没落貴族系vtuber",
+      "characters": [],
+      "links": [
+        {
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=4sjLB64aG3I"
         }
       ],
       "hashtag": "あたなる欲望街",
@@ -5546,15 +6644,15 @@
     },
     {
       "id": "stream_158",
-      "date": "2023/04/04",
-      "scenario": "クトゥルフ神話TRPG「欲望街」二日目《KP：高音超子　PL：高生紳士/四宮伊織/ヨシヅキ参謀》",
+      "date": "2023/04/03",
+      "scenario": "クトゥルフ神話TRPG「欲望街」一日目《KP：高音超子　PL：高生紳士/四宮伊織/ヨシヅキ参謀》",
       "system": "CoC6版",
       "gm": "高音　超子@没落貴族系vtuber",
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=4sjLB64aG3I"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=N69NuYGjPe8"
         }
       ],
       "hashtag": "あたなる欲望街",
@@ -5563,23 +6661,6 @@
     },
     {
       "id": "stream_159",
-      "date": "2023/04/03",
-      "scenario": "クトゥルフ神話TRPG「欲望街」一日目《KP：高音超子　PL：高生紳士/四宮伊織/ヨシヅキ参謀》",
-      "system": "CoC6版",
-      "gm": "高音　超子@没落貴族系vtuber",
-      "characters": [],
-      "links": [
-        {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=N69NuYGjPe8"
-        }
-      ],
-      "hashtag": "あたなる欲望街",
-      "adminNote": "",
-      "relatedLinks": []
-    },
-    {
-      "id": "stream_160",
       "date": "2023/04/02",
       "scenario": "ハロー、ヴィータ",
       "system": "CoC6版",
@@ -5587,8 +6668,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=TOBBf5zqA4c"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=TOBBf5zqA4c"
         }
       ],
       "hashtag": "ハロー宮尾へ",
@@ -5596,7 +6677,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_161",
+      "id": "stream_160",
       "date": "2023/03/05",
       "scenario": "お前が人を殺すのだ",
       "system": "CoC6版",
@@ -5604,8 +6685,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=pVgCi0QhbqE"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=pVgCi0QhbqE"
         }
       ],
       "hashtag": "たかみやの夜、たかみやハンドカフト、たかみやラズラバ、おまころ四宮",
@@ -5613,7 +6694,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_162",
+      "id": "stream_161",
       "date": "2023/02/17",
       "scenario": "遥か彼方まで",
       "system": "エモクロア",
@@ -5643,7 +6724,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_163",
+      "id": "stream_162",
       "date": "2023/02/15",
       "scenario": "闇に嗤う冥王",
       "system": "CoC6版",
@@ -5651,8 +6732,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=qhnYuO-yehw"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=qhnYuO-yehw"
         }
       ],
       "hashtag": "闇嗤あしこし",
@@ -5660,7 +6741,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_164",
+      "id": "stream_163",
       "date": "2023/02/11",
       "scenario": "ロールシャッハシンドローム",
       "system": "CoC6版",
@@ -5681,7 +6762,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_165",
+      "id": "stream_164",
       "date": "2023/02/09",
       "scenario": "ゴールデン・ラズベリー・ラバーズ",
       "system": "CoC6版",
@@ -5689,8 +6770,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=smNwBHrZcuQ"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=smNwBHrZcuQ"
         }
       ],
       "hashtag": "たかみやラズラバ",
@@ -5698,7 +6779,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_166",
+      "id": "stream_165",
       "date": "2023/02/05",
       "scenario": "おきがるにKutuluで遊んでみよう",
       "system": "CoC6版",
@@ -5706,8 +6787,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=1X7kvwook5I"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=1X7kvwook5I"
         }
       ],
       "hashtag": "おきくら14",
@@ -5715,7 +6796,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_167",
+      "id": "stream_166",
       "date": "2023/02/01",
       "scenario": "風呂が冷えているんだが？",
       "system": "CoC6版",
@@ -5732,8 +6813,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=v27HuNR9E2E"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=v27HuNR9E2E"
         }
       ],
       "hashtag": "風呂があたたかくなる",
@@ -5741,7 +6822,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_168",
+      "id": "stream_167",
       "date": "2023/01/25",
       "scenario": "コーヒー一杯分の恐怖",
       "system": "CoC6版",
@@ -5749,8 +6830,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=Hlm3FjZ22pg"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=Hlm3FjZ22pg"
         }
       ],
       "hashtag": "やしのきコーヒー",
@@ -5758,7 +6839,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_169",
+      "id": "stream_168",
       "date": "2023/01/24",
       "scenario": "あなざーえいと",
       "system": "エモクロア",
@@ -5766,8 +6847,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=h_5jBnkDHBM"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=h_5jBnkDHBM"
         }
       ],
       "hashtag": "あなざえ02",
@@ -5775,7 +6856,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_170",
+      "id": "stream_169",
       "date": "2022/12/26",
       "scenario": "ここで長く生きて",
       "system": "CoC6版",
@@ -5783,8 +6864,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=Dgqhrz16hqo"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=Dgqhrz16hqo"
         }
       ],
       "hashtag": "",
@@ -5792,7 +6873,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_171",
+      "id": "stream_170",
       "date": "2022/12/24",
       "scenario": "茶瀬木高校（仮）入部",
       "system": "CoC6版",
@@ -5800,8 +6881,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=sbLF4Gd5jnk"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=sbLF4Gd5jnk"
         }
       ],
       "hashtag": "ちゃぜ高かっこかり01",
@@ -5809,7 +6890,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_172",
+      "id": "stream_171",
       "date": "2022/12/20",
       "scenario": "TRPG / なんちゃってメモリアル",
       "system": "CoC6版",
@@ -5817,8 +6898,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=-e1CWU65bVo"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=-e1CWU65bVo"
         }
       ],
       "hashtag": "伝説の初恋クリスマス",
@@ -5826,7 +6907,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_173",
+      "id": "stream_172",
       "date": "2022/12/19",
       "scenario": "のっく、のっく、ちゃいむ",
       "system": "CoC6版",
@@ -5834,8 +6915,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=2t39NI1o5Vs"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=2t39NI1o5Vs"
         }
       ],
       "hashtag": "のっくのっくあたなる",
@@ -5843,7 +6924,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_174",
+      "id": "stream_173",
       "date": "2022/12/12",
       "scenario": "新約コトリバコ",
       "system": "CoC6版",
@@ -5851,8 +6932,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=t_YOLPSOKm4"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=t_YOLPSOKm4"
         }
       ],
       "hashtag": "",
@@ -5860,7 +6941,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_175",
+      "id": "stream_174",
       "date": "2022/11/22",
       "scenario": "Greed in my heart",
       "system": "CoC6版",
@@ -5868,8 +6949,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=XEzQk5fL2yk"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=XEzQk5fL2yk"
         }
       ],
       "hashtag": "グリマイ4",
@@ -5877,7 +6958,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_176",
+      "id": "stream_175",
       "date": "2022/11/17",
       "scenario": "ヴェルネの天使は死を歌う",
       "system": "CoC6版",
@@ -5898,7 +6979,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_177",
+      "id": "stream_176",
       "date": "2022/10/27",
       "scenario": "VOID",
       "system": "CoC6版",
@@ -5935,7 +7016,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_178",
+      "id": "stream_177",
       "date": "2022/10/15",
       "scenario": "飲み干せシャンパンタワー！",
       "system": "CoC6版",
@@ -5943,8 +7024,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=Bt8uxSG2MXM"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=Bt8uxSG2MXM"
         }
       ],
       "hashtag": "藍宮カズヒロ突発卓",
@@ -5952,7 +7033,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_179",
+      "id": "stream_178",
       "date": "2022/10/09",
       "scenario": "夕星シンフォニア",
       "system": "エモクロア",
@@ -5981,7 +7062,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_180",
+      "id": "stream_179",
       "date": "2022/09/21",
       "scenario": "春光プレリュード",
       "system": "CoC6版",
@@ -6002,7 +7083,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_181",
+      "id": "stream_180",
       "date": "2022/09/20",
       "scenario": "腐肉喰らいの部屋",
       "system": "エモクロア",
@@ -6010,8 +7091,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=FyTX76rV3xg"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=FyTX76rV3xg"
         }
       ],
       "hashtag": "腐肉しのんのりゅ",
@@ -6019,7 +7100,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_182",
+      "id": "stream_181",
       "date": "2022/09/05",
       "scenario": "遭難者C",
       "system": "CoC6版",
@@ -6027,8 +7108,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=XN1wqWzoFns"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=XN1wqWzoFns"
         }
       ],
       "hashtag": "遭難者しのんの",
@@ -6036,7 +7117,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_183",
+      "id": "stream_182",
       "date": "2022/08/25",
       "scenario": "救世主",
       "system": "CoC6版",
@@ -6061,7 +7142,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_184",
+      "id": "stream_183",
       "date": "2022/08/19",
       "scenario": "白波と青に泳ぐ",
       "system": "CoC6版",
@@ -6069,8 +7150,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=VTz9XPzlr-c"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=VTz9XPzlr-c"
         }
       ],
       "hashtag": "僕らと青に泳ぐ",
@@ -6078,7 +7159,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_185",
+      "id": "stream_184",
       "date": "2022/08/16",
       "scenario": "エンジョイダブルサマー！",
       "system": "CoC6版",
@@ -6086,8 +7167,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=fMc32B57hh8"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=fMc32B57hh8"
         }
       ],
       "hashtag": "水泳部交流会後輩組",
@@ -6095,7 +7176,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_186",
+      "id": "stream_185",
       "date": "2022/08/13",
       "scenario": "たかみやデルタ",
       "system": "CoC6版",
@@ -6103,8 +7184,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=sukXvE0DE5I"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=sukXvE0DE5I"
         }
       ],
       "hashtag": "たかみやデルタ",
@@ -6112,7 +7193,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_187",
+      "id": "stream_186",
       "date": "2022/08/10",
       "scenario": "なわばり",
       "system": "CoC6版",
@@ -6120,8 +7201,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=BpGzBRPANxc"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=BpGzBRPANxc"
         }
       ],
       "hashtag": "四宮なわばり",
@@ -6129,7 +7210,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_188",
+      "id": "stream_187",
       "date": "2022/08/07",
       "scenario": "ふかきうみ",
       "system": "CoC6版",
@@ -6137,8 +7218,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=SLIoiFisJXA"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=SLIoiFisJXA"
         }
       ],
       "hashtag": "くぜさんのあしこし",
@@ -6146,7 +7227,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_189",
+      "id": "stream_188",
       "date": "2022/08/06",
       "scenario": "ぼくらのシャングリラ、あの子のほうき星",
       "system": "CoC6版",
@@ -6154,8 +7235,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=mz6oYNJ2C5k"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=mz6oYNJ2C5k"
         }
       ],
       "hashtag": "あたなる僕シャン",
@@ -6163,7 +7244,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_190",
+      "id": "stream_189",
       "date": "2022/08/03",
       "scenario": "ハンドカフト！",
       "system": "CoC6版",
@@ -6171,8 +7252,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=Mo5iwlQgYUc"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=Mo5iwlQgYUc"
         }
       ],
       "hashtag": "たかみやハンドカフト",
@@ -6180,7 +7261,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_191",
+      "id": "stream_190",
       "date": "2022/07/18",
       "scenario": "みなさま！このざま！ごくろうサマー！",
       "system": "CoC6版",
@@ -6188,8 +7269,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=nzkbU4x4E-U"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=nzkbU4x4E-U"
         }
       ],
       "hashtag": "",
@@ -6197,7 +7278,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_192",
+      "id": "stream_191",
       "date": "2022/07/14",
       "scenario": "父と子と悪霊",
       "system": "エモクロア",
@@ -6205,8 +7286,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=OlSNto2iIx4"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=OlSNto2iIx4"
         }
       ],
       "hashtag": "腰振りと悪霊",
@@ -6214,7 +7295,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_193",
+      "id": "stream_192",
       "date": "2022/07/10",
       "scenario": "刹夏",
       "system": "CoC6版",
@@ -6222,8 +7303,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=U-6wrzQOXKo"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=U-6wrzQOXKo"
         }
       ],
       "hashtag": "いおいず刹夏",
@@ -6231,7 +7312,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_194",
+      "id": "stream_193",
       "date": "2022/06/29",
       "scenario": "LADYBUG",
       "system": "CoC6版",
@@ -6239,8 +7320,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=ndIQ5MhVmnE"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=ndIQ5MhVmnE"
         }
       ],
       "hashtag": "月宮レディバグ",
@@ -6248,7 +7329,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_195",
+      "id": "stream_194",
       "date": "2022/06/23",
       "scenario": "ソープスクール",
       "system": "CoC6版",
@@ -6277,7 +7358,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_196",
+      "id": "stream_195",
       "date": "2022/06/21",
       "scenario": "私には止められない",
       "system": "CoC6版",
@@ -6285,8 +7366,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=4QnR2p2SwAI"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=4QnR2p2SwAI"
         }
       ],
       "hashtag": "こしふしは止められない",
@@ -6294,7 +7375,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_197",
+      "id": "stream_196",
       "date": "2022/06/16",
       "scenario": "犬神憑き",
       "system": "CoC6版",
@@ -6311,7 +7392,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_198",
+      "id": "stream_197",
       "date": "2022/06/09",
       "scenario": "鬼の棲む",
       "system": "CoC6版",
@@ -6319,8 +7400,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=oruaK9_BmJE"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=oruaK9_BmJE"
         }
       ],
       "hashtag": "四宮の棲む",
@@ -6328,7 +7409,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_199",
+      "id": "stream_198",
       "date": "2022/06/04",
       "scenario": "ふうたといっしょ。",
       "system": "エモクロア",
@@ -6336,8 +7417,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "#234:https://www.youtube.com/watch?v=RUs9UJvFjTY"
+          "label": "#234",
+          "url": "https://www.youtube.com/watch?v=RUs9UJvFjTY"
         }
       ],
       "hashtag": "234といっしょ",
@@ -6345,7 +7426,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_200",
+      "id": "stream_199",
       "date": "2022/05/27",
       "scenario": "お前は誰だ",
       "system": "CoC6版",
@@ -6353,8 +7434,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=1Ia9Cpo6fk8"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=1Ia9Cpo6fk8"
         }
       ],
       "hashtag": "藍宮ヨシヒロは誰だ",
@@ -6362,7 +7443,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_201",
+      "id": "stream_200",
       "date": "2022/04/27",
       "scenario": "おまえがちょうどいい",
       "system": "CoC6版",
@@ -6370,8 +7451,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=Dtk9rzLGtsU"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=Dtk9rzLGtsU"
         }
       ],
       "hashtag": "おまえが足腰ふらふら",
@@ -6379,7 +7460,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_202",
+      "id": "stream_201",
       "date": "2022/04/06",
       "scenario": "World End Juvenile",
       "system": "CoC6版",
@@ -6396,8 +7477,8 @@
       ],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=lkn64R9XxDM"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=lkn64R9XxDM"
         }
       ],
       "hashtag": "WEJドシャ卓01",
@@ -6405,7 +7486,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_203",
+      "id": "stream_202",
       "date": "2022/04/01",
       "scenario": "エイプリルフール企画",
       "system": "CoC6版",
@@ -6413,8 +7494,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=EpAQnLE-J8A"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=EpAQnLE-J8A"
         }
       ],
       "hashtag": "",
@@ -6422,7 +7503,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_204",
+      "id": "stream_203",
       "date": "2022/03/29",
       "scenario": "世界を視た男",
       "system": "CoC6版",
@@ -6430,8 +7511,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=x1NwRwmzkes"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=x1NwRwmzkes"
         }
       ],
       "hashtag": "足腰ふらふら男",
@@ -6439,7 +7520,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_205",
+      "id": "stream_204",
       "date": "2022/03/20",
       "scenario": "カタシロ",
       "system": "CoC6版",
@@ -6447,8 +7528,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=RPhfoy-So_0"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=RPhfoy-So_0"
         }
       ],
       "hashtag": "アタシロ灰",
@@ -6456,7 +7537,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_206",
+      "id": "stream_205",
       "date": "2022/03/04",
       "scenario": "プルガトリウムの夜",
       "system": "CoC6版",
@@ -6477,7 +7558,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_207",
+      "id": "stream_206",
       "date": "2022/02/18",
       "scenario": "夢の対価",
       "system": "CoC6版",
@@ -6485,8 +7566,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=KESw9v9gLAg"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=KESw9v9gLAg"
         }
       ],
       "hashtag": "すりきりおり夢の対価",
@@ -6494,7 +7575,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_208",
+      "id": "stream_207",
       "date": "2022/02/13",
       "scenario": "激突！コズミックウェディングvsビッグバンブライド！！",
       "system": "CoC6版",
@@ -6502,8 +7583,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=cONZnAJSep8"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=cONZnAJSep8"
         }
       ],
       "hashtag": "コズバン04",
@@ -6511,7 +7592,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_209",
+      "id": "stream_208",
       "date": "2022/02/06",
       "scenario": "フェリーの怪",
       "system": "CoC6版",
@@ -6519,8 +7600,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=zQyZi6xEDtU"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=zQyZi6xEDtU"
         }
       ],
       "hashtag": "フェリーのあしこし",
@@ -6528,7 +7609,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_210",
+      "id": "stream_209",
       "date": "2021/12/22",
       "scenario": "",
       "system": "エモクロア",
@@ -6536,8 +7617,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=Qv8_AGlhkYg"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=Qv8_AGlhkYg"
         }
       ],
       "hashtag": "",
@@ -6545,7 +7626,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_211",
+      "id": "stream_210",
       "date": "2021/12/18",
       "scenario": "黒い目玉",
       "system": "CoC6版",
@@ -6553,8 +7634,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=wlD5yRJePuU"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=wlD5yRJePuU"
         }
       ],
       "hashtag": "黒いあしこし",
@@ -6562,7 +7643,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_212",
+      "id": "stream_211",
       "date": "2021/11/25",
       "scenario": "彼方からの君に捧ぐ",
       "system": "CoC6版",
@@ -6583,7 +7664,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_213",
+      "id": "stream_212",
       "date": "2021/11/18",
       "scenario": "とある幸せな家族の話",
       "system": "CoC6版",
@@ -6604,7 +7685,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_214",
+      "id": "stream_213",
       "date": "2021/10/27",
       "scenario": "spell of the night.",
       "system": "CoC6版",
@@ -6612,8 +7693,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=bWBefQH1pLE"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=bWBefQH1pLE"
         }
       ],
       "hashtag": "",
@@ -6621,7 +7702,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_215",
+      "id": "stream_214",
       "date": "2021/10/19",
       "scenario": "嗤う人間師",
       "system": "CoC6版",
@@ -6642,7 +7723,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_216",
+      "id": "stream_215",
       "date": "2021/09/26",
       "scenario": "すきばらの神",
       "system": "エモクロア",
@@ -6650,8 +7731,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=pQQOgVfZTmY"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=pQQOgVfZTmY"
         }
       ],
       "hashtag": "しろっぷの神",
@@ -6659,7 +7740,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_217",
+      "id": "stream_216",
       "date": "2021/09/05",
       "scenario": "水の街",
       "system": "CoC6版",
@@ -6667,8 +7748,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=4E8FBr0H5bc"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=4E8FBr0H5bc"
         }
       ],
       "hashtag": "漫画家たちで行く水の街",
@@ -6676,7 +7757,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_218",
+      "id": "stream_217",
       "date": "2021/08/31",
       "scenario": "スイムヒーローズ",
       "system": "CoC6版",
@@ -6684,8 +7765,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=i4CfBlbz-sU"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=i4CfBlbz-sU"
         }
       ],
       "hashtag": "",
@@ -6693,7 +7774,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_219",
+      "id": "stream_218",
       "date": "2021/06/30",
       "scenario": "Monochrome Girl Re:",
       "system": "CoC6版",
@@ -6701,8 +7782,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=uYYMzWOUGCs"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=uYYMzWOUGCs"
         }
       ],
       "hashtag": "初心者モノクロ",
@@ -6710,7 +7791,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_220",
+      "id": "stream_219",
       "date": "2021/06/05",
       "scenario": "オリジナルの矜持",
       "system": "CoC6版",
@@ -6718,8 +7799,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=DEdL-irWTYI"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=DEdL-irWTYI"
         }
       ],
       "hashtag": "秒速8キロメートル",
@@ -6727,7 +7808,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_221",
+      "id": "stream_220",
       "date": "2021/05/08",
       "scenario": "リボルバー",
       "system": "CoC6版",
@@ -6735,8 +7816,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=VYnTTl_on5c"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=VYnTTl_on5c"
         }
       ],
       "hashtag": "パンケーキ式リボルバー",
@@ -6744,7 +7825,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_222",
+      "id": "stream_221",
       "date": "2021/05/04",
       "scenario": "極彩色の学園",
       "system": "CoC6版",
@@ -6752,8 +7833,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=G-ihHgG2U50"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=G-ihHgG2U50"
         }
       ],
       "hashtag": "極彩色のパンケーキ",
@@ -6761,7 +7842,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_223",
+      "id": "stream_222",
       "date": "2020/06/19",
       "scenario": "人魚姫の物語",
       "system": "CoC6版",
@@ -6769,8 +7850,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=_JRdh9FQHlk"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=_JRdh9FQHlk"
         }
       ],
       "hashtag": "四宮卓",
@@ -6778,7 +7859,7 @@
       "relatedLinks": []
     },
     {
-      "id": "stream_224",
+      "id": "stream_223",
       "date": "2020/05/13",
       "scenario": "2時から始まる初心者クトゥルフ",
       "system": "CoC6版",
@@ -6786,8 +7867,8 @@
       "characters": [],
       "links": [
         {
-          "label": "YouTube",
-          "url": "本編:https://www.youtube.com/watch?v=7-vcPkUDTzg"
+          "label": "本編",
+          "url": "https://www.youtube.com/watch?v=7-vcPkUDTzg"
         }
       ],
       "hashtag": "",
